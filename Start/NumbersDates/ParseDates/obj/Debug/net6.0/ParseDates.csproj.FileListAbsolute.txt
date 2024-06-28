@@ -1,0 +1,14 @@
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.AssemblyInfoInputs.cache
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.AssemblyInfo.cs
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.csproj.CoreCompileInputs.cache
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.exe
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.deps.json
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.runtimeconfig.json
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.dll
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.pdb
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.dll
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\ParseDates\obj\Debug\net6.0\refint\ParseDates.dll
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.pdb
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.genruntimeconfig.cache
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ref\ParseDates.dll

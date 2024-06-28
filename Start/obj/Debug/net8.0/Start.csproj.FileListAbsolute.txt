@@ -1,0 +1,4 @@
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\obj\Debug\net8.0\Start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\obj\Debug\net8.0\Start.AssemblyInfoInputs.cache
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\obj\Debug\net8.0\Start.AssemblyInfo.cs
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\obj\Debug\net8.0\Start.csproj.CoreCompileInputs.cache

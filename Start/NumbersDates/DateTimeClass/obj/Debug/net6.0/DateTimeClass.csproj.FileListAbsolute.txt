@@ -1,0 +1,14 @@
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfoInputs.cache
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfo.cs
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.csproj.CoreCompileInputs.cache
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.exe
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.deps.json
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.runtimeconfig.json
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.dll
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.pdb
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.dll
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\refint\DateTimeClass.dll
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.pdb
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.genruntimeconfig.cache
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\ref\DateTimeClass.dll

@@ -1,0 +1,14 @@
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\Files\Directories\bin\Debug\net6.0\Directories.exe
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\Files\Directories\bin\Debug\net6.0\Directories.deps.json
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\Files\Directories\bin\Debug\net6.0\Directories.runtimeconfig.json
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\Files\Directories\bin\Debug\net6.0\Directories.dll
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\Files\Directories\bin\Debug\net6.0\Directories.pdb
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.AssemblyInfoInputs.cache
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.AssemblyInfo.cs
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.csproj.CoreCompileInputs.cache
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.dll
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\refint\Directories.dll
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.pdb
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.genruntimeconfig.cache
+C:\Users\AZIBAPU FRED OBUA\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\ref\Directories.dll
